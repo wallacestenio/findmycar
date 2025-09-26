@@ -10,7 +10,6 @@
         <div class="container">
             <a class="navbar-brand" href="{{ url('/') }}">Meu Sistema</a>
         </div>
-    </nav>
 
     <div class="container">
         @yield('content')
